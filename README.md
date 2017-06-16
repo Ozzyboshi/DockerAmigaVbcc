@@ -2,7 +2,7 @@
 Docker image for Amiga Vbbc compiler
 
 This docker image lets you compile simple c programs for the Commodore Amiga platform.
-The vbcc compiler will produce binary files for the motorola 68000 ( It works on my Amiga 600 but it should also work on A500 and A500+)
+The vbcc compiler will produce binary files for the Motorola 68000 ( It works on my Amiga 600 but it should also work on A500 and A500+ )
 
 The image was created according to this youtube tutorial:  https://www.youtube.com/watch?v=vFV0oEyY92I , many thanks to Wei-ju Wu for his wonderful work.
 
