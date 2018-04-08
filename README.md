@@ -30,7 +30,7 @@ all:
 now it's time to compile openwin.c...
 
 ```
-docker run -v $HOME/myamigacprogram:/data --rm  ozzyboshi/dockeramigavbcc make -f /data/Makefile
+docker run -v $HOME/myamigacprogram:/data --rm -w /data  ozzyboshi/dockeramigavbcc make
 ```
    
 You should now see the binary executable inside your myamigacprogram, copy it to a real Amiga or emulator and run it, a simple window should appear on the screen.
