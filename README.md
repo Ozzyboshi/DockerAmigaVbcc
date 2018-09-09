@@ -7,7 +7,7 @@ The vbcc compiler will produce binary files for the Motorola 68000 ( It works on
 The image was created according to this youtube tutorial:  https://www.youtube.com/watch?v=vFV0oEyY92I , many thanks to Wei-ju Wu for his wonderful work.
 
 ## Usage
-1. create a directory where your C code will be stored (let's call'it myamigacprogram)
+1. create a directory where your C code will be stored (lets call it myamigacprogram)
 2. create the program
 3. create the makefile
 
